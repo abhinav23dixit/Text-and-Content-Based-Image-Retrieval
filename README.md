@@ -30,7 +30,7 @@ This model can be used both via <b>GUI</b> and <b>command line</b>. In both of t
   <li> <a href="https://github.com/abhinav23dixit">Abhinav Dixit</a></li>
   <li> <a href="https://github.com/ishaan0710">Ishaan Rajput</a></li>
   <li> <a href="https://github.com/chang97">Abhishek Sharma</a></li>
-  <li> <a href="https://github.com/">Harshita Rastogi</a></li>
+  <li> <a href="https://github.com/harshi29">Harshita Rastogi</a></li>
   <li> <a href="https://github.com/john-10">John Prasad</a></li>
 </ul>
 
