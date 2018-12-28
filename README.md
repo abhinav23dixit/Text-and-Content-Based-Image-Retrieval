@@ -41,5 +41,5 @@ This model can be used both via <b>GUI</b> and <b>command line</b>. In both of t
 
 ## Acknowledgement
 * Thanks to [Keras](https://keras.io/) for providing us with the implementation of deep learning libraries.
-* A special thanks to [Machine Learning Mastery](https://machinelearningmastery.com/) withput which we couldn't have thought about the right approach to tackle this problem.
+* A special thanks to [Machine Learning Mastery](https://machinelearningmastery.com/) without which we couldn't have thought about the right approach to tackle this problem.
 
